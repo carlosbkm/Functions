@@ -6,6 +6,9 @@ Right now it only contains a function which overrides the mailer content type to
 
 No admin or configuration available, you need to add your functions in the code. This plugin is just a placeholder for that.
 
+Reference: [How to add actions and filters to boilerplate plugin](https://wordpress.stackexchange.com/questions/263160/how-do-you-use-the-plugin-boilerplate-loader-class-to-hook-actions-and-filters)
+
+
 ## Installation
 
 Download the code, zip it and install it in your wordpress like any other plugin.
